@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 venv/
 __pycache__/
 .env
 vectorstore/
 *.faiss
+=======
+venv/
+__pycache__/
+.env
+vectorstore/
+*.faiss
+>>>>>>> 05d08e788bf1e0c5b5d13eac2366549cb36e1f5f
 *.pkl
